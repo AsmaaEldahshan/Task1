@@ -12,8 +12,8 @@ struct User users[10];
 int userCount = 0;
 
 int main() {
-    addUser("medhat", "0123");
-    addUser("sami", "0123");
+    addUser("asmaa", "0123");
+    addUser("ali", "0123");
 
     char username[50];
     char password[50];
